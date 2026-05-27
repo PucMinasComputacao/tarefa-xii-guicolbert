@@ -15,14 +15,14 @@ Tratamento básico de erros em requisições
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome:Guilherme Ales Colbert Camara
+- Matricula:909422
 
 ## Prints do trabalho
+![alt text](image.png)
 
-<<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
+![alt text](image-1.png)
 
-<<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
+![alt text](image-2.png)
 
-<<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
 
